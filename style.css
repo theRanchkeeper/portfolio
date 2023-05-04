@@ -1,0 +1,17 @@
+.lists {
+  display: flex;
+  flex-direction: row;
+}
+
+.lists > ul > li {
+  width: 30ch;
+}
+
+article {
+  width: fit-content;
+}
+
+.article-wrapper {
+  display: flex;
+  justify-content: center;
+}
